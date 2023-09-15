@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rachel-vita
-- 👀 I’m interested in data analytics and user experiences
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects using SQL aand Python
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on projects using HTML5, CSS3, JavaScript, PostgresSQL
 - 📫 How to reach me: rachelvita@pm.me
 
 <!---
